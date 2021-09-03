@@ -6,7 +6,7 @@ Nibbler is a real-time analysis GUI for [Leela Chess Zero](http://lczero.org/pla
 
 These days, Nibbler more-or-less works with traditional engines like [Stockfish](https://stockfishchess.org/), too.
 
-For prebuilt binary releases, see the [Releases](https://github.com/rooklift/nibbler/releases) section. For help, the [Discord](https://discordapp.com/invite/pKujYxD) may be your best bet, or open an issue here.
+For prebuilt binary releases, see the [Releases](https://github.com/rooklift/nibbler/releases) section. 
 
 ![Screenshot](https://user-images.githubusercontent.com/16438795/80602436-088c6e00-8a27-11ea-8163-d26b176f17af.png)
 
@@ -51,6 +51,6 @@ Leela running out of RAM can be a problem if searches go on too long. You might 
 
 # Thanks
 
-Thanks to everyone in Discord and GitHub who's offered advice and suggestions; and thanks to all Lc0 devs and GPU-hours contributors!
+Thanks to everyone in GitHub who's offered advice and suggestions; and thanks to all Lc0 devs and GPU-hours contributors!
 
 The pieces are from [Lichess](https://lichess.org/).
